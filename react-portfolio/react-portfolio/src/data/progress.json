@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Php",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "Mern",
+      "imageSrc": "skills/mern.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Mysql",
+        "imageSrc": "skills/mysql.png"
+    },
+
+  ]

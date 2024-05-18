@@ -1,0 +1,34 @@
+[
+    {
+      "title": "ChillHome",
+      "imageSrc": "projects/chillhome2.png",
+      "description": "Site de streaming réalisé avec l'Api TMDB.",
+      "skills": ["React", "MUI", "Node Js"],
+      "demo": "https://chillhome-znov.onrender.com/",
+      "source": "https://github.com/neb244/getflix?tab=readme-ov-file"
+    },
+    {
+      "title": "PiggyClicker",
+      "imageSrc": "projects/cookieclicker.png",
+      "description": "Le jeu à une durée de trois minutes et comporte trois boutons pour augmenter son score mais ceux-ci ont un coût.",
+      "skills": ["Bootstrap", "Javascript", "Sass", "Vite Vanilla"],
+      "demo": "https://chickenroast.github.io/cookieclicker/",
+      "source": "https://github.com/Chickenroast/cookieclicker?tab=readme-ov-file"
+    },
+    {
+      "title": "Site vitrine",
+      "imageSrc": "projects/yummy2.png",
+      "description": "Site web d'un restaurant, responsive pour mobile et grand écran. ",
+      "skills": ["Bootstrap", "Javascript"],
+      "demo": "https://neb244.github.io/restaurant-css-framework/",
+      "source": "https://github.com/neb244/restaurant-css-framework?tab=readme-ov-file"
+    },
+    {
+      "title": "Calculatrice",
+      "imageSrc": "projects/calculator2.png",
+      "description": "Calculatrice avec une petite animation de changement de couleur.",
+      "skills": ["Html", "Css","Javascript"],
+      "demo": "https://github.com/neb244/calculator",
+      "source": "https://github.com/neb244/calculator"
+    }
+  ]

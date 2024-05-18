@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/JS4.png"
+    },
+    {
+      "title": "Boostrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "Sass",
+      "imageSrc": "skills/sass.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
